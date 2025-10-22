@@ -1,4 +1,6 @@
 langchain
+langchain-classic
+langchain-core
 langchain-astradb
 langchain-huggingface
 langchain-groq
@@ -9,3 +11,4 @@ python-dotenv
 pandas
 flask
 prometheus_client
+sentence-transformers
